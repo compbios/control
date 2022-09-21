@@ -1,6 +1,6 @@
 # Estructuras de control
 
-A continuación algunas respuestas  alos retos propuestos durante la sesión
+A continuación algunas respuestas para los retos propuestos durante la sesión
 
 - [Si](si.psc)
 - [Si - SiNo](si2.psc)
